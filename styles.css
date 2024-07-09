@@ -43,5 +43,24 @@ body {
     margin: 0px;
 }
 
+.icons{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    margin: 10px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+p {
+    margin: 10px;
+    font-size: 13px;
+}
+
+.post-body p:last-child {
+    text-align: justify;
+}
 
 
